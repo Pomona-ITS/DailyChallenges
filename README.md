@@ -40,12 +40,12 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 24. [Scheduling](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Scheduling.md) - 3
 25. [CPU Pinning](https://github.com/Pomona-ITS/DailyChallenges/blob/main/CPUPinning.md) - 3
 26. [Pluralsight](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Pluralsight.md) - 2 Add other learning subscriptions?
-27. [Performance Monitoring]() - 2
-28. [Heterogeneous Computing]() - 2
-29. [HPC Resources]() - 3
-30. [Box]() - 1
-31. [DevOps]() - 3
-32. [Conferencces - O'Reilly AI]() - 3
+27. [Performance Monitoring](https://github.com/Pomona-ITS/DailyChallenges/blob/main/PerformanceMonitoring.md) - 2
+28. [Heterogeneous Computing](https://github.com/Pomona-ITS/DailyChallenges/blob/main/HeterogeneousComputing.md) - 2
+29. [HPC Resources](https://github.com/Pomona-ITS/DailyChallenges/blob/main/HPCResources.md) - 3
+30. [Box](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Box.md) - 1
+31. [AllDayDevOps](https://github.com/Pomona-ITS/DailyChallenges/blob/main/AllDayDevOps.md) - 3
+32. [Conferencces - O'Reilly AI](https://github.com/Pomona-ITS/DailyChallenges/blob/main/OReillyAIConference.md) - 3
 33. [Swift Playground]() - 1
 34. [Download R]() - 1
 35. [scrum and agile vs waterfall]() - 3
