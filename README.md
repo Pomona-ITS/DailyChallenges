@@ -18,7 +18,7 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 2. [git](https://github.com/Pomona-ITS/DailyChallenges/blob/main/git.md) - 3
 3. [GitHub name](https://github.com/Pomona-ITS/DailyChallenges/blob/main/GitHub%20Username.md) - 1
 4. [CS Basics](https://github.com/Pomona-ITS/DailyChallenges/blob/main/CSBasics.md) - 1
-5. [Mac Commands?]() - 1
+5. [Basic Linux and bash Commands](https://github.com/Pomona-ITS/DailyChallenges/blob/main/BasicLinuxandBashCommands.md) - 1
 6. [DevOps]() - 3
 7. [Linux Comic]() - 1
 8. [OS?]() - 1
