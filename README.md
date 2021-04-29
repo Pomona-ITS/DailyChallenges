@@ -16,7 +16,7 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 
 1. [Virtualization](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Virtualization.md) - 2 (Estimated time 2-3 hours)
 2. [git](https://github.com/Pomona-ITS/DailyChallenges/blob/main/git.md) - 3
-3. [GitHub name]() - 1
+3. [GitHub name](https://github.com/Pomona-ITS/DailyChallenges/blob/main/GitHub%20Username.md) - 1
 4. [CS Basics](1) -
 5. [Mac Commands?]() - 1
 6. [DevOps]() - 3
