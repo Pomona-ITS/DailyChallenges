@@ -37,9 +37,9 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 21. [Docker](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Docker.md) - 3
 22. [Number Systems](https://github.com/Pomona-ITS/DailyChallenges/blob/main/HexadecimalvsBinaryvsDecimal.md) - 3
 23. [Bare Metal](https://github.com/Pomona-ITS/DailyChallenges/blob/main/BareMetal.md) - 3
-24. [Scheduling]() - 3
-25. [CPU Pinning]() - 3
-26. [Pluralsight]() - 2 Add other learning subscriptions?
+24. [Scheduling](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Scheduling.md) - 3
+25. [CPU Pinning](https://github.com/Pomona-ITS/DailyChallenges/blob/main/CPUPinning.md) - 3
+26. [Pluralsight](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Pluralsight.md) - 2 Add other learning subscriptions?
 27. [Performance Monitoring]() - 2
 28. [Heterogeneous Computing]() - 2
 29. [HPC Resources]() - 3
@@ -68,6 +68,7 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 52. [pdsh/ADMIN Magazine]() - 2
 53. [Databases/ACID]() - 3
 54. [Compiling]() - 2
+55. [CI/CD](https://github.com/Pomona-ITS/DailyChallenges/blob/main/CICD.md) - 2
 
 ...
 
