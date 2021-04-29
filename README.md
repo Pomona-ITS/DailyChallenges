@@ -22,7 +22,7 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 6. [DevOps](https://github.com/Pomona-ITS/DailyChallenges/blob/main/DevOps.md) - 3
 7. [Linux Comic](https://github.com/Pomona-ITS/DailyChallenges/blob/main/LinuxComic.md) - 1
 8. [Operating System aka OS](https://github.com/Pomona-ITS/DailyChallenges/blob/main/OperatingSystem.md) - 1
-9. [Simplicity]() -  1
+9. [Software Design Decoded - Simplicity](https://github.com/Pomona-ITS/DailyChallenges/blob/main/SoftwareDesignDecoded.md) -  1
 10. [Why Analysis]() - 1
 11. [Python for Beginners]() - 1
 12. [vi cheat sheet ]() - 2
