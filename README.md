@@ -15,7 +15,7 @@ Most students get through 10-15 challanges in a week with a pretty good understa
 The numbers at the end of each topic indicate the recommended priority. Most students found it was easier to start with 1 or 1/2 and then proceed to 2 and 3.
 
 1. [Virtualization](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Virtualization.md) - 2 (Estimated time 2-3 hours)
-2. [git]() - 3
+2. [git](https://github.com/Pomona-ITS/DailyChallenges/blob/main/git.md) - 3
 3. [GitHub name]() - 1
 4. [CS Basics](1) -
 5. [Mac Commands?]() - 1
