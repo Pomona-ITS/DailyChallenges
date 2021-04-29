@@ -34,9 +34,9 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 18. [git commands](https://github.com/Pomona-ITS/DailyChallenges/blob/main/gitCommands.md) - 3
 19. [regex](https://github.com/Pomona-ITS/DailyChallenges/blob/main/regex.md) - 2
 20. [command line](https://github.com/Pomona-ITS/DailyChallenges/blob/main/CommandLine.md) - 0
-21. [Docker]() - 3
-22. [Number Systems]() - 3
-23. [Bare Metal]() - 3
+21. [Docker](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Docker.md) - 3
+22. [Number Systems](https://github.com/Pomona-ITS/DailyChallenges/blob/main/HexadecimalvsBinaryvsDecimal.md) - 3
+23. [Bare Metal](https://github.com/Pomona-ITS/DailyChallenges/blob/main/BareMetal.md) - 3
 24. [Scheduling]() - 3
 25. [CPU Pinning]() - 3
 26. [Pluralsight]() - 2 Add other learning subscriptions?
