@@ -49,11 +49,11 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 33. [Swift Playground](https://github.com/Pomona-ITS/DailyChallenges/blob/main/SwiftPlayground.md) - 1
 34. [Download R](https://github.com/Pomona-ITS/DailyChallenges/blob/main/DownloadR.md) - 1
 35. [scrum and agile vs waterfall](https://github.com/Pomona-ITS/DailyChallenges/blob/main/ScrumAgileWaterfall.md) - 3
-36. [web server]() - 3
-37. [HPC Acronyms]() - 2
-38. [AWS (a cloud) account]() - 3
-39. [patenting/open source]() - 2
-40. [Hour of Code]() - 1
+36. [web server](https://github.com/Pomona-ITS/DailyChallenges/blob/main/WebServer.md) - 3
+37. [HPC Acronyms](https://github.com/Pomona-ITS/DailyChallenges/blob/main/HPCAcronyms.md) - 2
+38. [AWS (a cloud) account](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Cloud.md) - 3
+39. [patenting/open source](https://github.com/Pomona-ITS/DailyChallenges/blob/main/PatentingOpenSource.md) - 2
+40. [Hour of Code](https://github.com/Pomona-ITS/DailyChallenges/blob/main/HourOfCode.md) - 1
 41. [Robot Choreography]() - 2
 42. [JoCS]() - 3
 43. [SDSC]() - 1/2
