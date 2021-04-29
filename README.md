@@ -27,13 +27,13 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 11. [Python at Facebook](https://github.com/Pomona-ITS/DailyChallenges/blob/main/PythonAtFacebook.md) - 1
 12. [vi cheat sheet ](https://github.com/Pomona-ITS/DailyChallenges/blob/main/viCheatSheet.md) - 2
 13. [Installing Linux](https://github.com/Pomona-ITS/DailyChallenges/blob/main/InstallingLinux.md) - 3
-14. [tmux]() - 2
-15. [Vagrant]() - 3
-16. [Ansible]() - 3
-17. [vim]() - 2 add nano? add micro?
-18. [git commands]() - 3
-19. [regex]() - 2
-20. [command line]() - 0
+14. [tmux](https://github.com/Pomona-ITS/DailyChallenges/blob/main/tmux.md) - 2
+15. [Vagrant](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Vagrant.md) - 3
+16. [Ansible](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Ansible.md) - 3
+17. [vim](https://github.com/Pomona-ITS/DailyChallenges/blob/main/vim.md) - 2 add nano? add micro?
+18. [git commands](https://github.com/Pomona-ITS/DailyChallenges/blob/main/gitCommands.md) - 3
+19. [regex](https://github.com/Pomona-ITS/DailyChallenges/blob/main/regex.md) - 2
+20. [command line](https://github.com/Pomona-ITS/DailyChallenges/blob/main/CommandLine.md) - 0
 21. [Docker]() - 3
 22. [Number Systems]() - 3
 23. [Bare Metal]() - 3
