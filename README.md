@@ -47,25 +47,25 @@ Most students get through 10-15 challanges in a week with a pretty good understa
 33. [Swift Playground]() - 1
 34. [Download R]() - 1
 35. [scrum and agile vs waterfall]() - 3
-36. []() - 3
-37. []() - 3
-38. []() - 3
-39. []() - 3
-40. []() - 3
-41. []() - 3
-42. []() - 3
-43. []() - 3
-44. []() - 3
-45. []() - 3
-46. []() - 3
-47. []() - 3
-48. []() - 3
-49. []() - 3
-50. []() - 3
-51. []() - 3
-52. []() - 3
-53. []() - 3
-54. []() - 3
+36. [web server]() - 3
+37. [HPC Acronyms]() - 2
+38. [AWS (a cloud) account]() - 3
+39. [patenting/open source]() - 2
+40. [Hour of Code]() - 1
+41. [Robot Choreography]() - 2
+42. [JoCS]() - 3
+43. [SDSC]() - 1/2
+44. [Things That Mattered]() - 1
+45. [Arrays vs Lists]() - 3
+46. [Photogrammetry]() - 3
+47. [Excel]() - 1
+48. [Lightbot]() - 1
+49. [Blog Post]() - 3
+50. [CENIC]() - 1
+51. [Sensors/Data]() - 1/2
+52. [pdsh/ADMIN Magazine]() - 2
+53. [Databases/ACID]() - 3
+54. [Compiling]() - 2
 
 ...
 
