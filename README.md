@@ -71,8 +71,10 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 
 ...
 
+Extra Resources To Explore:
 
 Free
+
 CyberInfrastructure Tutor at NCSA: https://www.citutor.org/login.php
 
 Cornell Virtual Workshop: https://cvw.cac.cornell.edu/topics
@@ -84,18 +86,25 @@ AWS:
 https://aws.amazon.com/about-aws/events/monthlywebinarseries/
 
 Inexpensive
+
 Site Subscriptions
+
 Bootcamp
+
 Online course (certificates, credentials)
 https://linuxacademy.com/ (used in XSEDE training)
 
 Training
+
 Conferences
-These conferences are of interest to me personally and could be of interest to others at Pomona as an effective tool to learn more about a particular topic or technology or meet people solving similar problems.
+
+These conferences are of interest to me personally and could be of interest to others at Pomona as an effective 
+tool to learn more about a particular topic or technology or meet people solving similar problems.
 
 ...
 
 Miscelaneous Materials from Workshops and Presentations at Pomona and Claremont Colleges
+
 Managing Digital Reputation by Marcus Messner, a Social Media Professor at Claremont: http://www.marcusmessner.com/claremont/
 
 Udacity course on HPC: https://www.udacity.com/course/high-performance-computing--ud281
