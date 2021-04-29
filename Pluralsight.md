@@ -1,4 +1,4 @@
-# Pluralsigh
+# Pluralsight
 
 Check out at least one course on Plural Sight
 Part 1 (because the weekend, you need something to do, right?): Check out at least one course on https://www.pluralsight.com/. Share here.
