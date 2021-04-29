@@ -14,6 +14,8 @@ https://www.bouncegeek.com/vmware-vs-virtualbox-comparison/
 
 Just the installation should not take that long.
 
+Some questions for the in-person discussion:
+
 - Why VirtualBox?
 
 - What about virtulization on Linux?
