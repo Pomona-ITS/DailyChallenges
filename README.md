@@ -26,7 +26,7 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 10. [Why Analysis](https://github.com/Pomona-ITS/DailyChallenges/blob/main/WhyAnalysis.md) - 1
 11. [Python at Facebook](https://github.com/Pomona-ITS/DailyChallenges/blob/main/PythonAtFacebook.md) - 1
 12. [vi cheat sheet ](https://github.com/Pomona-ITS/DailyChallenges/blob/main/viCheatSheet.md) - 2
-13. [Installing Linux]() - 3
+13. [Installing Linux](https://github.com/Pomona-ITS/DailyChallenges/blob/main/InstallingLinux.md) - 3
 14. [tmux]() - 2
 15. [Vagrant]() - 3
 16. [Ansible]() - 3
