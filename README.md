@@ -54,10 +54,10 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 38. [AWS (a cloud) account](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Cloud.md) - 3
 39. [patenting/open source](https://github.com/Pomona-ITS/DailyChallenges/blob/main/PatentingOpenSource.md) - 2
 40. [Hour of Code](https://github.com/Pomona-ITS/DailyChallenges/blob/main/HourOfCode.md) - 1
-41. [Robot Choreography]() - 2
-42. [JoCS]() - 3
-43. [SDSC]() - 1/2
-44. [Things That Mattered]() - 1
+41. [Robot Choreography](https://github.com/Pomona-ITS/DailyChallenges/blob/main/RobotChoreography.md) - 2
+42. [JoCSE](https://github.com/Pomona-ITS/DailyChallenges/blob/main/JoCSE.md) - 3
+43. [SDSC](https://github.com/Pomona-ITS/DailyChallenges/blob/main/SDSCWebinars.md) - 1/2
+44. [Things That Mattered](https://github.com/Pomona-ITS/DailyChallenges/blob/main/ThigsThatMattered.md) - 1
 45. [Arrays vs Lists]() - 3
 46. [Photogrammetry]() - 3
 47. [Excel]() - 1
