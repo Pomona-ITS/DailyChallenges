@@ -28,25 +28,25 @@ Most students get through 10-15 challanges in a week with a pretty good understa
 14. [tmux]() - 2
 15. [Vagrant]() - 3
 16. [Ansible]() - 3
-17. []() - 3
-18. []() - 3
-19. []() - 3
-20. []() - 3
-21. []() - 3
-22. []() - 3
-23. []() - 3
-24. []() - 3
-25. []() - 3
-26. []() - 3
-27. []() - 3
-28. []() - 3
-29. []() - 3
-30. []() - 3
-31. []() - 3
-32. []() - 3
-33. []() - 3
-34. []() - 3
-35. []() - 3
+17. [vim]() - 2 add nano? add micro?
+18. [git commands]() - 3
+19. [regex]() - 2
+20. [command line]() - 0
+21. [Docker]() - 3
+22. [Number Systems]() - 3
+23. [Bare Metal]() - 3
+24. [Scheduling]() - 3
+25. [CPU Pinning]() - 3
+26. [Pluralsight]() - 2 Add other learning subscriptions?
+27. [Performance Monitoring]() - 2
+28. [Heterogeneous Computing]() - 2
+29. [HPC Resources]() - 3
+30. [Box]() - 1
+31. [DevOps]() - 3
+32. [Conferencces - O'Reilly AI]() - 3
+33. [Swift Playground]() - 1
+34. [Download R]() - 1
+35. [scrum and agile vs waterfall]() - 3
 36. []() - 3
 37. []() - 3
 38. []() - 3
