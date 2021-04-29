@@ -62,9 +62,9 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 46. [Photogrammetry](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Photogrammetry.md) - 3
 47. [Excel](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Excel.md) - 1
 48. [Lightbot](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Lightbot.md) - 1
-49. [Blog Post]() - 3
-50. [CENIC]() - 1
-51. [Sensors/Data]() - 1/2
+49. [Pure Storage Blog Post](https://github.com/Pomona-ITS/DailyChallenges/blob/main/CountWordsYouDontUnderstand.md) - 3
+50. [CENIC](https://github.com/Pomona-ITS/DailyChallenges/blob/main/CENIC.md) - 1
+51. [Sensors/Data](https://github.com/Pomona-ITS/DailyChallenges/blob/main/SensorsData.md) - 1/2
 52. [pdsh/ADMIN Magazine]() - 2
 53. [Databases/ACID]() - 3
 54. [Compiling]() - 2
