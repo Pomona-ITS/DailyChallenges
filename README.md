@@ -12,6 +12,8 @@ to make sure you absorbed the information.
 
 Most students get through 10-15 challanges in a week with a pretty good understanding of the vocabulary at the end of 4-5 sessions (weeks).
 
+The numbers at the end of each topic indicate the recommended priority. Most students found it was easier to start with 1 or 1/2 and then proceed to 2 and 3.
+
 1. [Virtualization](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Virtualization.md) - 2
 2. [git]() - 3
 3. [GitHub name]() - 1
