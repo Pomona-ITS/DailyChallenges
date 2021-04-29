@@ -46,9 +46,9 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 30. [Box](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Box.md) - 1
 31. [AllDayDevOps](https://github.com/Pomona-ITS/DailyChallenges/blob/main/AllDayDevOps.md) - 3
 32. [Conferencces - O'Reilly AI](https://github.com/Pomona-ITS/DailyChallenges/blob/main/OReillyAIConference.md) - 3
-33. [Swift Playground]() - 1
-34. [Download R]() - 1
-35. [scrum and agile vs waterfall]() - 3
+33. [Swift Playground](https://github.com/Pomona-ITS/DailyChallenges/blob/main/SwiftPlayground.md) - 1
+34. [Download R](https://github.com/Pomona-ITS/DailyChallenges/blob/main/DownloadR.md) - 1
+35. [scrum and agile vs waterfall](https://github.com/Pomona-ITS/DailyChallenges/blob/main/ScrumAgileWaterfall.md) - 3
 36. [web server]() - 3
 37. [HPC Acronyms]() - 2
 38. [AWS (a cloud) account]() - 3
