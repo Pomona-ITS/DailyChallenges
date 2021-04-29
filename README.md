@@ -21,7 +21,7 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 5. [Basic Linux and bash Commands](https://github.com/Pomona-ITS/DailyChallenges/blob/main/BasicLinuxandBashCommands.md) - 1
 6. [DevOps](https://github.com/Pomona-ITS/DailyChallenges/blob/main/DevOps.md) - 3
 7. [Linux Comic](https://github.com/Pomona-ITS/DailyChallenges/blob/main/LinuxComic.md) - 1
-8. [OS?]() - 1
+8. [Operating System aka OS](https://github.com/Pomona-ITS/DailyChallenges/blob/main/OperatingSystem.md) - 1
 9. [Simplicity]() -  1
 10. [Why Analysis]() - 1
 11. [Python for Beginners]() - 1
