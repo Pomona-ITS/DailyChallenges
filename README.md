@@ -12,7 +12,35 @@ to make sure you absorbed the information.
 
 Most students get through 10-15 challanges in a week with a pretty good understanding of the vocabulary at the end of 4-5 sessions (weeks).
 
-1. [Virtualization](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Virtualization.md)
+1. [Virtualization](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Virtualization.md) - 2
+2. [git]() - 3
+3. [GitHub name]() - 1
+4. [CS Basics](1) -
+5. [Mac Commands?]() - 1
+6. [DevOps]() - 3
+7. [Linux Comic]() - 1
+8. [OS?]() - 1
+9. [Simplicity]() -  1
+10. [Why Analysis]() - 1
+11. [Python for Beginners]() - 1
+12. [vi cheat sheet ]() - 2
+13. [Installing Linux]() - 3
+14. [tmux]() - 2
+15. [Vagrant]() - 3
+16. [Ansible]() - 3
+17. []() - 3
+18. []() - 3
+19. []() - 3
+20. []() - 3
+21. []() - 3
+22. []() - 3
+23. []() - 3
+24. []() - 3
+25. []() - 3
+26. []() - 3
+27. []() - 3
+28. []() - 3
+29. []() - 3
 
 ...
 
