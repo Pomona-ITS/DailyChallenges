@@ -22,8 +22,8 @@ If this is Windows, here is a dissertation's worth of various ways to measure th
 https://stackoverflow.com/questions/673523/how-do-i-measure-execution-time-of-a-command-on-the-windows-command-line.
 
 For some of you who don't know yet: you have just done your first ever benchmark. 
-The next daily challenge is going to be related to this one and will explain the importance of having a l
-ocal repository (repo) for vendoring/artifacts/OS packages/updates.
+The next daily challenge is going to be related to this one and will explain the importance of having a 
+local repository (repo) for vendoring/artifacts/OS packages/updates.
 P.S. If you interrupt the download before it is done you can restart with "wget -c" or "curl -C" or use 
 CyberDuck, one of many GUI clients useful for staging multiple downloads and uploads.
 
