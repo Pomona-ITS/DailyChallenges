@@ -3,7 +3,7 @@
 
 If you already have a personal account, that should be fine. 
 
-A coouple of words about why this might prove useful in the future:
+A couple of words about why this might prove useful in the future:
 
 - Lots of companies use git and GitHub and it is better for you to learn about it beforehand!
 
