@@ -16,7 +16,7 @@ even if you don't fully understand what and why yet.
 
 Install a virtualization tool on your personal Mac (Windows).
 
-Here is a fun article on Oracle's VirtualBox vs VMWare Workstation:
+Here is a fun article on [Oracle's VirtualBox](https://www.virtualbox.org/) vs VMWare Workstation:
 https://www.bouncegeek.com/vmware-vs-virtualbox-comparison/
 
 Just the installation should not take that long. 
