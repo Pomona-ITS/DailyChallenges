@@ -76,7 +76,7 @@ Extra Resources To Explore:
 
 Free
 
-CyberInfrastructure Tutor at NCSA: https://www.citutor.org/login.php
+CyberInfrastructure Tutor at NCSA: https://www.citutor.org/login.php or the newer link: https://www.hpc-training.org/xsede/moodle/course/index.php?categoryid=10#
 
 Cornell Virtual Workshop: https://cvw.cac.cornell.edu/topics
 
