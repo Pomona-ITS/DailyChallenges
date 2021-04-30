@@ -1,5 +1,9 @@
 # git install (nothing more!)
 
+Why:
+
+You will be surprised at how many companies use version control and how many use git. I know I still am.
+
 Install git (to start using version control).
 
 On a Mac, you might have to install Homebrew - the Mac package manager (https://brew.sh).
