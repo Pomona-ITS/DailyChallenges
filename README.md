@@ -80,7 +80,7 @@ CyberInfrastructure Tutor at NCSA: https://www.citutor.org/login.php or the newe
 
 Cornell Virtual Workshop: https://cvw.cac.cornell.edu/topics
 
-Getting started with HPC at Pittsburgh SuperComputing Center: https://www.psc.edu/getting-started-with-high-performance-computing
+GPittsburgh SuperComputing Center: https://www.psc.edu/resources/training/
 
 AWS:
 
