@@ -12,7 +12,7 @@ Install a virtualization tool on your personal Mac (Windows).
 Here is a fun article on Oracle's VirtualBox vs VMWare Workstation:
 https://www.bouncegeek.com/vmware-vs-virtualbox-comparison/
 
-Just the installation should not take that long.
+Just the installation should not take that long. If your laptop is struggling with RAM or disk space, don't do it.
 
 Some questions for the in-person discussion:
 
