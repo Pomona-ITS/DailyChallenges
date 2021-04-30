@@ -6,4 +6,4 @@ If you are brave, and you already installed the CLI (Command Line Interface) for
 
 [Git Cheat Sheet](../Daily_Challenges/attachments/challenge_0018-git-cheatsheet-EN-white.pdf)
 
-[Git Cheat Sheet](../Daily_Challenges/attachments/challenge_0018-git-cheatsheet-EN-white.pdf)
+[Back to Table of Contents](https://github.com/Pomona-ITS/DailyChallenges/blob/main/README.md)
