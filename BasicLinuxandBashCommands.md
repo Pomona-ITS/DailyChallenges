@@ -10,4 +10,6 @@ https://www.codecademy.com/learn/learn-the-command-line
 
 vi/vim editor: https://linuxacademy.com/cp/modules/view/id/523
 
+Some of these might require a subscription. If you want something free: https://github.com/NCGAS/PonyLinux
+
 [Back to Table of Contents](https://github.com/Pomona-ITS/DailyChallenges/blob/main/README.md)
