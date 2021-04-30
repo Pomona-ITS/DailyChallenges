@@ -1,22 +1,27 @@
 # Virtualization
 
+Why:
+
 Now you might wonder what  virtualization has to do with High Performance Computing.
-Or you don't even know what virtualization is yet. No worries, it will all be explained.
+Or you don't even know what virtualization is yet. 
+Well, guess what if you are on a Windows machine or even a Mac and you need access to Linux...
+How do you get it? That's right, via a hypervisor that pretends to be a different computer... but it is right on your computer.
 
 
-A practical hands-on thing that should make you feel like you did something useful 
-even if you don't fully understand what and why yet:
+This is a practical hands-on thing that should make you feel like you did something useful 
+even if you don't fully understand what and why yet.
 
 Install a virtualization tool on your personal Mac (Windows).
 
 Here is a fun article on Oracle's VirtualBox vs VMWare Workstation:
 https://www.bouncegeek.com/vmware-vs-virtualbox-comparison/
 
-Just the installation should not take that long. If your laptop is struggling with RAM or disk space, don't do it.
+Just the installation should not take that long. 
+*If your laptop is struggling with RAM or disk space, don't do it.
 
 Some questions for the in-person discussion:
 
-- Why VirtualBox?
+- Why VirtualBox? Are there other tools like this? Free?
 
 - What about virtulization on Linux?
 
