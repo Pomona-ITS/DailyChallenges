@@ -88,24 +88,44 @@ https://aws.amazon.com/about-aws/events/monthlywebinarseries/
 
 Inexpensive
 
+https://www.sdsc.edu/event_items/202101_HPC_User_Training_Series.html
+
+Udacity course on HPC: https://www.udacity.com/course/high-performance-computing--ud281
+
 Site Subscriptions
+
+https://www.coursera.org/learn/introduction-high-performance-computing
 
 Bootcamp
 
+http://bootcamp.rice.edu/hpc-bootcamp/hpc-bootcamp-curriculum/
+
 Online course (certificates, credentials)
-https://linuxacademy.com/ (used in XSEDE training)
+
+https://linuxacademy.com/ 
 
 Training
+
+https://developer.nvidia.com/developer-program?ncid=pa-srch-goog-53600&gclid=Cj0KCQjw1a6EBhC0ARIsAOiTkrF9YuRNf-Bn79T801nCADsdb3LVsZlCbKs-gIoZDRHPqCRjwsRvuF4aAkBGEALw_wcB#cid=dl13_pa-srch-goog_en-us
+
+https://education.hpe.com/us/en/training/portfolio/highperformance.html
+
+https://www.intel.com/content/www/us/en/programmable/support/training/course/ointrohpc.html
 
 Conferences
 
 These conferences are of interest to me personally and could be of interest to others at Pomona as an effective 
 tool to learn more about a particular topic or technology or meet people solving similar problems.
 
-...
+https://pearc.acm.org/
 
-Miscelaneous Materials from Workshops and Presentations at Pomona and Claremont Colleges
+https://sc21.supercomputing.org/
 
-Managing Digital Reputation by Marcus Messner, a Social Media Professor at Claremont: http://www.marcusmessner.com/claremont/
+https://www.isc-hpc.com/
 
-Udacity course on HPC: https://www.udacity.com/course/high-performance-computing--ud281
+https://www.nvidia.com/en-us/gtc/
+
+https://www.intel.com/content/www/us/en/events/hpcdevcon/overview.html
+
+https://odsc.com/
+
