@@ -65,9 +65,9 @@ The numbers at the end of each topic indicate the recommended priority. Most stu
 49. [Pure Storage Blog Post](https://github.com/Pomona-ITS/DailyChallenges/blob/main/CountWordsYouDontUnderstand.md) - 3
 50. [CENIC](https://github.com/Pomona-ITS/DailyChallenges/blob/main/CENIC.md) - 1
 51. [Sensors/Data](https://github.com/Pomona-ITS/DailyChallenges/blob/main/SensorsData.md) - 1/2
-52. [pdsh/ADMIN Magazine]() - 2
-53. [Databases/ACID]() - 3
-54. [Compiling]() - 2
+52. [pdsh/ADMIN Magazine](https://github.com/Pomona-ITS/DailyChallenges/blob/main/pdsh.md) - 2
+53. [Databases/ACID](https://github.com/Pomona-ITS/DailyChallenges/blob/main/DatabasesACID.md) - 3
+54. [Compiling](https://github.com/Pomona-ITS/DailyChallenges/blob/main/Compiling.md) - 2
 55. [CI/CD](https://github.com/Pomona-ITS/DailyChallenges/blob/main/CICD.md) - 2
 
 ...
