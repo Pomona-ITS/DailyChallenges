@@ -19,6 +19,8 @@ Install a virtualization tool on your personal Mac (Windows).
 Here is a fun article on [Oracle's VirtualBox](https://www.virtualbox.org/) vs VMWare Workstation:
 https://www.bouncegeek.com/vmware-vs-virtualbox-comparison/
 
+And the step-by-step instructions for the installation: https://www.virtualbox.org/manual/UserManual.html#virt-why-useful
+
 Just the installation should not take that long. 
 *If your laptop is struggling with RAM or disk space, don't do it.
 
