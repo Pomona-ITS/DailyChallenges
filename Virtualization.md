@@ -1,6 +1,6 @@
 # Virtualization
 
-Now you might wonder what does virtualization have to do with High Performance Computing.
+Now you might wonder what  virtualization has to do with High Performance Computing.
 Or you don't even know what virtualization is yet. No worries, it will all be explained.
 
 
