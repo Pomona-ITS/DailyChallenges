@@ -26,7 +26,8 @@ Just the installation should not take that long.
 
 Some questions for the in-person discussion:
 
-- Why VirtualBox? Are there other tools like this? Free?
+- Why VirtualBox? Are there other tools like this? Free? (I have some personal feelings about Oracle buying VirtualBox a while ago but at least
+  they did not kill it yet, that is something.)
 
 - What about virtulization on Linux?
 
